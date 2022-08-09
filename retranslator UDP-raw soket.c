@@ -6,6 +6,7 @@
 #include <sys/types.h>
 #include <sys/socket.h>
 //система Debian 9
+// not copy - not run/ it is prototipe
 
 #define BUFFER_SIZE 1024
 struct ev_loop;
